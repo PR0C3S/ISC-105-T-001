@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1558450964 source:c:\users\20180767\desktop\ejercicios en clase\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1558443095 source:c:\users\hp\desktop\desktop\ejercicios en clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"versionPuntero.h"
+	"versionMatriz.h"
+
+1558443095 source:c:\users\hp\desktop\desktop\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"versionPuntero.h"
+	"versionMatriz.h"
+
+1558443095 c:\users\hp\desktop\desktop\prueba\versionpuntero.h
+
+1558443095 c:\users\hp\desktop\desktop\prueba\versionmatriz.h
+
+1558443095 source:c:\users\hp\desktop\desktop\prueba\versionmatriz.c
+	<stdio.h>
+	<stdlib.h>
+
+1558443095 source:c:\users\hp\desktop\desktop\prueba\versionpuntero.c
+	<stdio.h>
+	<stdlib.h>
+
+1558443095 c:\users\hp\desktop\desktop\ejercicios en clase\versionpuntero.h
+
+1558443095 c:\users\hp\desktop\desktop\ejercicios en clase\versionmatriz.h
+
+1558568672 source:c:\users\hp\desktop\desktop\ejercicios en clase\problema3.c
+	<stdio.h>
+	<stdlib.h>
+
+1558570409 source:c:\users\hp\desktop\desktop\ejercicios en clase\problema1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
