@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1559786431 source:c:\users\hp\desktop\desktop\pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1559785484 c:\users\hp\desktop\desktop\pilas\pila.h
+	<stdlib.h>
+
+1559785547 source:c:\users\hp\desktop\desktop\pilas\pila.c
+	<stdlib.h>
+	"pila.h"
+

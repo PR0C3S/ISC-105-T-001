@@ -1,21 +1,27 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "monticulo.h"
-///MONTICULOS
+#include "lista.h"
+
 int main()
 {
-   float nuevoValor;
-    Monticulo *miHeap;
-    miHeap = Inicializar(1);
+   nodo *pila;
+    float nuevo=0;
+
+    Pilita= iniciarpila(Pilita);
 
     do
     {
-       printf("\nIngrese un valor, digite (0) para salir: ");
-       scanf("%d",&nuevoValor);
-    }while(nuevoValor !=0);
-    while(!isEmpty(miHeap))
+       printf("Ingrese un valor (-1 para salir): ");
+       scanf("%f",&nuevo);
+
+      Push(Pilita, nuevo);
+    }while(nuevo>=0);
+
+    while(!isEmpty(Pilita))
     {
-       printf("%.2f\t",Poll(miHeap))
+      nuevo= Pop(Pilita);
+      printf("%.f  ",nuevo);
     }
-    return 0;
+
+   return 0;
 }
